@@ -12,7 +12,7 @@
         <h4 class="text-center">MAHARASTRA STATE BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION, PUNE-411004</h4>
         <h2 class="text-center my-4">MARKSHEET</h2>
         
-        <form method="POST" action="Mark.php" class="border border-2 border-secondary p-4 bg-light rounded-3">
+        <form method="POST" action="Marksheet_print.php" class="border border-2 border-secondary p-4 bg-light rounded-3">
           <div class="mb-3">
             <label for="name" class="form-label">Name</label>
             <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" required>
